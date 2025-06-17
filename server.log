@@ -1,0 +1,13 @@
+
+> news-app@0.0.0 dev
+> vite
+
+
+  VITE v4.5.14  ready in 106 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+
+warn - No utility classes were detected in your source files. If this is unexpected, double-check the `content` option in your Tailwind CSS configuration.
+warn - https://tailwindcss.com/docs/content-configuration
+6:44:58 PM [vite] hmr update /src/App.jsx, /src/index.css
