@@ -281,7 +281,7 @@ const NewsApp = () => {
       <div className="max-w-md mx-auto mt-20 p-8 bg-white/95 backdrop-blur-sm rounded-2xl shadow-2xl border border-white/20">
         <div className="text-center mb-6">
           <Globe className="mx-auto w-16 h-16 text-red-600 mb-6" />
-          <h2 className="text-2xl font-bold text-gray-900 mb-4">Setup World News API</h2>
+          <h2 className="text-2xl font-bold text-gray-900 mb-4">Setup Otis' News API</h2>
           <p className="text-gray-700 text-base">Enter your API key to access real-time news</p>
         </div>
         
@@ -333,7 +333,7 @@ const NewsApp = () => {
           <div className="flex justify-between items-center mb-6">
             <h1 className="text-3xl font-bold text-white flex items-center gap-3">
               <Globe className="w-8 h-8 text-red-200" />
-              Live News Tracker
+              Otis' Live News Tracker
             </h1>
             <button
               onClick={() => setShowApiKeyInput(true)}

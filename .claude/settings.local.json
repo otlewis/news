@@ -6,7 +6,8 @@
       "Bash(npx tailwindcss init:*)",
       "Bash(mkdir:*)",
       "Bash(timeout 3 npm run dev)",
-      "Bash(npm run dev:*)"
+      "Bash(npm run dev:*)",
+      "Bash(netlify init:*)"
     ],
     "deny": []
   }
