@@ -1,6 +1,6 @@
 {
-  "name": "Live News Tracker",
-  "short_name": "News Tracker",
+  "name": "Otis' Live News Tracker",
+  "short_name": "Otis' News",
   "description": "Real-time news search and bookmarking app",
   "start_url": "/",
   "display": "standalone",
